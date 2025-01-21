@@ -92,4 +92,3 @@ Os requisitos não funcionais são identificados como RNF, seguidos de uma categ
 Cada requisito não funcional é identificado por um código único, que combina a categoria e um número sequencial (por exemplo, `RNF-ESC01` para o primeiro requisito de escalabilidade).
 
 
-#### Organização
