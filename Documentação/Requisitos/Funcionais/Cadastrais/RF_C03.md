@@ -8,6 +8,11 @@
 
 ---
 
+## Prioridade  
+### Alta  
+A criação de vagas é fundamental para o objetivo principal do sistema: conectar candidatos a oportunidades.  
+
+---
 ## Dados e Validações
 
 ### Dados Necessários
