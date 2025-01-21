@@ -8,6 +8,13 @@
 
 ---
 
+## Prioridade
+
+### Alta
+O cadastro de empresas é necessário para disponibilizar vagas e conectar candidatos e empresas.
+
+---
+
 ## Dados e Validações
 
 ### Dados Necessários
