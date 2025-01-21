@@ -90,4 +90,4 @@ Essencial para que as empresas acompanhem os processos seletivos e tomem decisõ
 5. O painel é atualizado automaticamente sempre que houver mudanças nas candidaturas vinculadas à empresa.  
 
 ---
-![Diagrama](Documentação/Anexos/RF_AC002_Diagrama.png)
+![Diagrama](Documentação/Anexos/Diagramas/RF_AC002_Diagrama.png)
