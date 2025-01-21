@@ -8,6 +8,11 @@
 
 ---
 
+## Prioridade  
+### Alta  
+Acompanhamento do processo seletivo é essencial para a transparência e experiência do usuário.  
+
+---
 ## Dados e Validações
 
 ### Dados Necessários

@@ -8,6 +8,11 @@
 
 ---
 
+## Prioridade  
+### Alta  
+A autenticação é fundamental para segurança e personalização das experiências dos usuários.  
+
+---
 ## Dados e Validações
 
 ### Dados Necessários
