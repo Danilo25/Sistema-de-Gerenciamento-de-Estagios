@@ -62,9 +62,6 @@ Os artefatos de requisitos serão organizados dentro do diretório principal `Re
 
 ---
 
-Cada artefato de requisito deve ser colocado no diretório correspondente ao seu tipo e categoria, seguindo o padrão de nomenclatura definido (ex.: `REQ.001.md`).
-
-
 
 #### Nomeclatura dos Requisitos Funcionais
 Os requisitos funcionais são identificados como RF, seguidos de uma categoria para facilitar a organização:
