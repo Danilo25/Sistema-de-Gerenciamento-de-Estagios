@@ -8,6 +8,11 @@
 
 ---
 
+## Prioridade  
+### Alta  
+Essencial para que as empresas acompanhem os processos seletivos e tomem decisões informadas.  
+
+---
 ## Dados e Validações
 
 ### Dados Necessários
