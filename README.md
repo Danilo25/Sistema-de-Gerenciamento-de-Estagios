@@ -16,6 +16,11 @@ O sistema visa, assim, aumentar a eficiência no processo de busca e contrataç�
 
 O desenvolvimento do **Sistema de Gerenciamento de Estágios** seguirá uma abordagem estruturada e baseada nas melhores práticas de engenharia de software, garantindo que o sistema seja escalável, seguro, de fácil manutenção e com uma boa experiência para o usuário final. As principais diretrizes a serem seguidas incluem:
 
+### Organização
+
+Com o objetivo de manter uma pradonização e organização durante o desenvolvimento
+Em necessidade de adicionar qualquer formato de anexo para auxiliar na documentação deve se utiliza o acesso ao drive: https://drive.google.com/drive/folders/1yvKWzYXwISeYyp9kHS9IEQxDOrVxDFj3?usp=sharing
+
 ### Metodologia Ágil (Scrum)
 O desenvolvimento será conduzido utilizando a metodologia ágil **Scrum**, permitindo entregas contínuas e feedback constante dos stakeholders. O trabalho será dividido em sprints, e as funcionalidades serão desenvolvidas de forma iterativa, priorizando as mais críticas para o sucesso do sistema.
 
